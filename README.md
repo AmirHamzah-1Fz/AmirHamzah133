@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Amir Hamzah
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Front-End Development
+- 💞️ I’m looking to collaborate on 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'am a High School Student
